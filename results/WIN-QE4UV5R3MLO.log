@@ -1,0 +1,149 @@
+Start encrypt - M0QR8CWGv9OS5CsS1n8fUVRsMyiFTcM9OaWYpyaPxag=
+C:\xampp\mysql\data\employees\current_dept_emp.frm
+C:\xampp\mysql\data\employees\db.opt
+C:\xampp\mysql\data\employees\departments.frm
+C:\xampp\mysql\data\employees\dept_emp.frm
+C:\xampp\mysql\data\employees\dept_emp_latest_date.frm
+C:\xampp\mysql\data\employees\dept_manager.frm
+C:\xampp\mysql\data\employees\employees.frm
+C:\xampp\mysql\data\employees\salaries.frm
+C:\xampp\mysql\data\employees\titles.frm
+C:\xampp\mysql\data\exploitdb_demo\account.frm
+C:\xampp\mysql\data\exploitdb_demo\acc_transaction.frm
+C:\xampp\mysql\data\exploitdb_demo\admin_func.frm
+C:\xampp\mysql\data\exploitdb_demo\branch.frm
+C:\xampp\mysql\data\exploitdb_demo\business.frm
+C:\xampp\mysql\data\exploitdb_demo\customer.frm
+C:\xampp\mysql\data\exploitdb_demo\db.opt
+C:\xampp\mysql\data\exploitdb_demo\department.frm
+C:\xampp\mysql\data\exploitdb_demo\employee.frm
+C:\xampp\mysql\data\exploitdb_demo\individual.frm
+C:\xampp\mysql\data\exploitdb_demo\officer.frm
+C:\xampp\mysql\data\exploitdb_demo\product.frm
+C:\xampp\mysql\data\exploitdb_demo\product_type.frm
+C:\xampp\mysql\data\exploitdb_demo\users.frm
+C:\xampp\mysql\data\menagerie@002ddb\db.opt
+C:\xampp\mysql\data\menagerie@002ddb\pet.frm
+C:\xampp\mysql\data\mysql\columns_priv.frm
+C:\xampp\mysql\data\mysql\column_stats.frm
+C:\xampp\mysql\data\mysql\db.frm
+C:\xampp\mysql\data\mysql\event.frm
+C:\xampp\mysql\data\mysql\func.frm
+C:\xampp\mysql\data\mysql\func.MAD
+C:\xampp\mysql\data\mysql\func.MAI
+C:\xampp\mysql\data\mysql\general_log.CSM
+C:\xampp\mysql\data\mysql\general_log.CSV
+C:\xampp\mysql\data\mysql\general_log.frm
+C:\xampp\mysql\data\mysql\global_priv.frm
+C:\xampp\mysql\data\mysql\gtid_slave_pos.frm
+C:\xampp\mysql\data\mysql\help_category.frm
+C:\xampp\mysql\data\mysql\help_category.MAD
+C:\xampp\mysql\data\mysql\help_category.MAI
+C:\xampp\mysql\data\mysql\help_keyword.frm
+C:\xampp\mysql\data\mysql\help_keyword.MAD
+C:\xampp\mysql\data\mysql\help_keyword.MAI
+C:\xampp\mysql\data\mysql\help_relation.frm
+C:\xampp\mysql\data\mysql\help_relation.MAD
+C:\xampp\mysql\data\mysql\help_relation.MAI
+C:\xampp\mysql\data\mysql\help_topic.frm
+C:\xampp\mysql\data\mysql\help_topic.MAD
+C:\xampp\mysql\data\mysql\help_topic.MAI
+C:\xampp\mysql\data\mysql\index_stats.frm
+C:\xampp\mysql\data\mysql\innodb_index_stats.frm
+C:\xampp\mysql\data\mysql\innodb_table_stats.frm
+C:\xampp\mysql\data\mysql\plugin.frm
+C:\xampp\mysql\data\mysql\plugin.MAD
+C:\xampp\mysql\data\mysql\plugin.MAI
+C:\xampp\mysql\data\mysql\proc.frm
+C:\xampp\mysql\data\mysql\procs_priv.frm
+C:\xampp\mysql\data\mysql\proxies_priv.frm
+C:\xampp\mysql\data\mysql\roles_mapping.frm
+C:\xampp\mysql\data\mysql\servers.frm
+C:\xampp\mysql\data\mysql\slow_log.CSM
+C:\xampp\mysql\data\mysql\slow_log.CSV
+C:\xampp\mysql\data\mysql\slow_log.frm
+C:\xampp\mysql\data\mysql\tables_priv.frm
+C:\xampp\mysql\data\mysql\table_stats.frm
+C:\xampp\mysql\data\mysql\time_zone.frm
+C:\xampp\mysql\data\mysql\time_zone.MAD
+C:\xampp\mysql\data\mysql\time_zone.MAI
+C:\xampp\mysql\data\mysql\time_zone_leap_second.frm
+C:\xampp\mysql\data\mysql\time_zone_leap_second.MAD
+C:\xampp\mysql\data\mysql\time_zone_leap_second.MAI
+C:\xampp\mysql\data\mysql\time_zone_name.frm
+C:\xampp\mysql\data\mysql\time_zone_name.MAD
+C:\xampp\mysql\data\mysql\time_zone_name.MAI
+C:\xampp\mysql\data\mysql\time_zone_transition.frm
+C:\xampp\mysql\data\mysql\time_zone_transition.MAD
+C:\xampp\mysql\data\mysql\time_zone_transition.MAI
+C:\xampp\mysql\data\mysql\time_zone_transition_type.frm
+C:\xampp\mysql\data\mysql\time_zone_transition_type.MAD
+C:\xampp\mysql\data\mysql\time_zone_transition_type.MAI
+C:\xampp\mysql\data\mysql\transaction_registry.frm
+C:\xampp\mysql\data\mysql\user.frm
+C:\xampp\mysql\data\performance_schema\db.opt
+C:\xampp\mysql\data\phpmyadmin\db.opt
+C:\xampp\mysql\data\phpmyadmin\pma__bookmark.frm
+C:\xampp\mysql\data\phpmyadmin\pma__central_columns.frm
+C:\xampp\mysql\data\phpmyadmin\pma__column_info.frm
+C:\xampp\mysql\data\phpmyadmin\pma__designer_settings.frm
+C:\xampp\mysql\data\phpmyadmin\pma__export_templates.frm
+C:\xampp\mysql\data\phpmyadmin\pma__favorite.frm
+C:\xampp\mysql\data\phpmyadmin\pma__history.frm
+C:\xampp\mysql\data\phpmyadmin\pma__navigationhiding.frm
+C:\xampp\mysql\data\phpmyadmin\pma__pdf_pages.frm
+C:\xampp\mysql\data\phpmyadmin\pma__recent.frm
+C:\xampp\mysql\data\phpmyadmin\pma__relation.frm
+C:\xampp\mysql\data\phpmyadmin\pma__savedsearches.frm
+C:\xampp\mysql\data\phpmyadmin\pma__table_coords.frm
+C:\xampp\mysql\data\phpmyadmin\pma__table_info.frm
+C:\xampp\mysql\data\phpmyadmin\pma__table_uiprefs.frm
+C:\xampp\mysql\data\phpmyadmin\pma__tracking.frm
+C:\xampp\mysql\data\phpmyadmin\pma__userconfig.frm
+C:\xampp\mysql\data\phpmyadmin\pma__usergroups.frm
+C:\xampp\mysql\data\phpmyadmin\pma__users.frm
+C:\xampp\mysql\data\world\city.frm
+C:\xampp\mysql\data\world\country.frm
+C:\xampp\mysql\data\world\countrylanguage.frm
+C:\xampp\mysql\data\world\db.opt
+C:\xampp\mysql\data\ib_buffer_pool
+C:\xampp\mysql\data\my.ini
+C:\xampp\mysql\data\mysql.pid
+C:\xampp\mysql\data\mysql_error.log
+C:\MWG_SensitiveData\1. BIỂU MẪU\Bieu_mau_bao_cao_1.docx
+C:\MWG_SensitiveData\1. BIỂU MẪU\Bieu_mau_bao_cao_2.docx
+C:\MWG_SensitiveData\1. BIỂU MẪU\Bieu_mau_thong_ke_tai_chinh.xlsx
+C:\MWG_SensitiveData\2. QUY ĐỊNH CHUNG\CRM.xlsx
+C:\MWG_SensitiveData\3. NHÂN SỰ\KPI NHÂN SỰ.xlsx
+C:\MWG_SensitiveData\4.  DỰ ÁN\ANKHANG.pdf
+C:\MWG_SensitiveData\4.  DỰ ÁN\BACHHOAXANH.pdf
+C:\MWG_SensitiveData\4.  DỰ ÁN\DIENMAYXANH.pdf
+C:\MWG_SensitiveData\4.  DỰ ÁN\THEGIOIDIDONG.pdf
+C:\MWG_SensitiveData\4.  DỰ ÁN\TOPZONE.pdf
+C:\MWG_SensitiveData\KINH DOANH\BÁO CÁO DOANH THU 2021.xlsx
+C:\MWG_SensitiveData\KINH DOANH\KẾ HOẠCH TÀI CHÍNH NĂM 2022.xlsx
+C:\MWG_SensitiveData\KINH DOANH\THỐNG KÊ NGÂN SÁCH 2022.xlsx
+C:\MWG_SensitiveData\KẾ HOẠCH\KẾ HOẠCH ĐẦU TỪ QUÝ 1.2022.pdf
+C:\MWG_SensitiveData\KẾ HOẠCH\KẾ HOẠCH ĐẦU TỪ QUÝ 2.2022.pdf
+C:\MWG_SensitiveData\KẾ HOẠCH\KẾ HOẠCH ĐẦU TỪ QUÝ 3.2022.pdf
+C:\MWG_SensitiveData\NHÂN SỰ\CRM.xlsx
+C:\MWG_SensitiveData\BÁO CÁO ATTT 05.2021 - 10.2022.zip
+C:\MWG_SensitiveData\BÁO CÁO ATTT 11.2021 - 03.2022.zip
+C:\MWG_SensitiveData\BÁO CÁO ATTT 6 THÁNG CUỐI 2020.zip
+C:\MWG_SensitiveData\BÁO CÁO ATTT 6 THÁNG CUỐI 2021.zip
+C:\MWG_SensitiveData\BÁO CÁO ATTT 6 THÁNG ĐẦU 2020.zip
+C:\MWG_SensitiveData\BÁO CÁO ATTT 6 THÁNG ĐẦU 2021.zip
+C:\MWG_SensitiveData\BÁO CÁO ATTT 6 THÁNG ĐẦU 2022.zip
+C:\MWG_SensitiveData\BÁO CÁO TÀI CHÍNH NĂM 2021.xlsx
+C:\MWG_SensitiveData\DỰ KIẾN TRIỂN KHAI NĂM 2022.xlsx
+C:\MWG_SensitiveData\KẾ HOẠCH TÀI CHÍNH NĂM 2022.xlsx
+C:\MWG_SensitiveData\KẾ HOẠCH ĐẦU TƯ NĂM 2020.pdf
+C:\MWG_SensitiveData\KẾ HOẠCH ĐẦU TƯ NĂM 2021.pdf
+C:\MWG_SensitiveData\KẾ HOẠCH ĐẦU TƯ NĂM 2022.pdf
+C:\MWG_SensitiveData\PASSWORD - BÁO CÁO ATTT 05.2021 - 10.2022.txt
+C:\MWG_SensitiveData\PASSWORD - BÁO CÁO ATTT 11.2021 - 03.2022.txt
+C:\MWG_SensitiveData\PASSWORD - BÁO CÁO ATTT.txt
+C:\MWG_SensitiveData\THỐNG KÊ NGÂN SÁCH 2022.xlsx
+C:\MWG_SensitiveData\THỐNG KÊ SỰ CỐ KỸ THUẬT 2021.jpg
+C:\MWG_SensitiveData\TIMETRACK - KẾ HOACH TRIỂN KHAI DỰ ÁN NĂM 2022.xlsx
+C:\MWG_SensitiveData\TRIỂN KHAI DIGITAL MARKETING.pdf
